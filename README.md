@@ -2,6 +2,7 @@
 
 This action installs Algo Wiregard VPN on the target server specified. It
 assumes an Ubuntu server.
+yes
 
 ## Inputs
 
